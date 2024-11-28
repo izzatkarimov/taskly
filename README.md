@@ -1,4 +1,4 @@
-# Taskly - Task Management Application
+# Taskly - Task Tracking Application
 
 A full-stack task management application built with Spring Boot and React.
 
